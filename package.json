@@ -1,0 +1,25 @@
+{
+  "name": "api-s-com-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambrosiavortex/Api-s-com-nodejs.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambrosiavortex/Api-s-com-nodejs/issues"
+  },
+  "homepage": "https://github.com/ambrosiavortex/Api-s-com-nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.3"
+  }
+}

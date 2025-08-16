@@ -1,4 +1,4 @@
-import * as repo from '../repositories/carrorepository.js';
+import * as repo from '../repositories/carroRepository.js';
 
 import { Router } from 'express';
 const endpoints = Router();

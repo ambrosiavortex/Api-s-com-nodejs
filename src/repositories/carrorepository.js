@@ -13,7 +13,7 @@ export async function listarCarros() {
 export async function inserirCarro(novoCarro) {
     const comando = `
     INSERT INTO tb_carro
-                 (ds_marca, ds_modelo, nr_ano, vl_preco, img_carro, dt_inclusao)
+                (ds_marca, ds_modelo, nr_ano, vl_preco, img_carro, dt_inclusao)
         VALUES(?, ?, ?, ?, ?, ?)
     `
 
